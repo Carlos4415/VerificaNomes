@@ -1,0 +1,15 @@
+C:\Users\carlo\source\repos\VerificaNomes\bin\Debug\net8.0\VerificaNomes.exe
+C:\Users\carlo\source\repos\VerificaNomes\bin\Debug\net8.0\VerificaNomes.deps.json
+C:\Users\carlo\source\repos\VerificaNomes\bin\Debug\net8.0\VerificaNomes.runtimeconfig.json
+C:\Users\carlo\source\repos\VerificaNomes\bin\Debug\net8.0\VerificaNomes.dll
+C:\Users\carlo\source\repos\VerificaNomes\bin\Debug\net8.0\VerificaNomes.pdb
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.AssemblyInfoInputs.cache
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.AssemblyInfo.cs
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.sourcelink.json
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.dll
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\refint\VerificaNomes.dll
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.pdb
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\VerificaNomes.genruntimeconfig.cache
+C:\Users\carlo\source\repos\VerificaNomes\obj\Debug\net8.0\ref\VerificaNomes.dll
